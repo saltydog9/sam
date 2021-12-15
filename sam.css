@@ -5,17 +5,22 @@ body {
  }
 
 .box {
-    width: 200px;
+    width: 1000px;
     height: 200px;
-    display: inline-block;
+     display: inline-block;
     border-radius: 10px;
+    font-size: 40px;
+    vertical-align:top;
+    overflow: hidden;
 
 }
 .container {
-    width: 40%;
+    width: 50%;
     text-align: center;
-    margin-left: 25%;
-    }
+    margin-left: 6.2%;
+
+    
+     }
 
 .ox1 {
     background-color: red;
