@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: darkblue;
+ }
+
+.box {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 10px;
+
+}
+.container {
+    width: 40%;
+    text-align: center;
+    margin-left: 25%;
+    }
+
+.ox1 {
+    background-color: red;
+
+}
+.ox2{
+    background-color: green;
+
+}
+.ox3 {
+    background-color: 
+    blue;
+}
+.ox4 {
+    background-color: yellow;
+}
